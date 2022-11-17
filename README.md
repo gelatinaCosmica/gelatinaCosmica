@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey there 👋, I'm Santiago Zapata
 
 Software developer at @holafly, with expertise in technologies like Typescript, React, SASS, Tailwindm Nodejs, SQL and more. 
 <!--
